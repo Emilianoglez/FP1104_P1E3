@@ -19,3 +19,10 @@ En aritmética y programación informática, conjunto ordenado de instrucciones 
 
 Divide y vencerás.
 La técnica de diseño de algoritmos llamada "divide y vencerás" (divide and conquer) consiste en descomponer el problema original en varios sub-problemas más sencillos, para luego resolver éstos mediante un cálculo sencillo. Por último, se combinan los resultados de cada sub-problema para obtener la solución del problema original.
+
+
+
+Grafica.
+100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
