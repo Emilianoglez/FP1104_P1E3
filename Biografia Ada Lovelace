@@ -14,3 +14,8 @@ Ada Lovelace aportó a la informática conceptos como «bucle» (grupo de instru
 Consciente de que sus aportes no serían apreciados hasta muchos años después, reunió sus apuntes, los enriqueció con demostraciones y análisis y los publicó con las iniciales A.A.L. En 1983 escribió un artículo en el que se incluían demostraciones de cómo calcular funciones trigonométricas con variables y los programas necesarios para que la máquina analítica los hiciese funcionar.
 Ada Lovelace tiene también un día propio en el calendario: el 16 de octubre. El día de Ada Lovelace rinde homenaje a todas aquellas mujeres del ámbito internacional que han contribuido con esfuerzo y pocas alabanzas en el campo de la ciencia, la tecnología, la ingeniería y las matemáticas.
 
+Algoritmo.
+En aritmética y programación informática, conjunto ordenado de instrucciones sistemáticas que permite hallar la solución de un problema específico.
+
+Divide y vencerás.
+La técnica de diseño de algoritmos llamada "divide y vencerás" (divide and conquer) consiste en descomponer el problema original en varios sub-problemas más sencillos, para luego resolver éstos mediante un cálculo sencillo. Por último, se combinan los resultados de cada sub-problema para obtener la solución del problema original.
